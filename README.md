@@ -71,7 +71,7 @@ class Justin:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusyuan9224&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusyuan9224&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusyuan9224&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusyuan9224&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
