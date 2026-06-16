@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+based+in+Taipei;Building+web+%26+iOS+apps;Automation+tools+%26+AI+agent+skills;Vue+%C2%B7+React+%C2%B7+.NET+%C2%B7+Python+%C2%B7+Swift" alt="Typing SVG" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0b0d?style=for-the-badge&logo=vercel&logoColor=white)](https://yuxuan-dev-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0b0d?style=for-the-badge&logo=vercel&logoColor=white)](https://www.yuxuanliu.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusyuan-liu-32b89a343/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bswen0424@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=yusyuan9224&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
@@ -137,7 +137,7 @@ class Justin:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0b0d?style=for-the-badge&logo=vercel&logoColor=white)](https://yuxuan-dev-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0b0d?style=for-the-badge&logo=vercel&logoColor=white)](https://www.yuxuanliu.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusyuan-liu-32b89a343/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bswen0424@gmail.com)
 
